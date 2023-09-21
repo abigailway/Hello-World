@@ -1,8 +1,10 @@
 # Hello-World
-**#Project Title**
-*##description*
-[]write list of code
-[]publish code
-[]go to class
+## Project Description
+*Description*
+### How to Write Code
+1. step one
+2. step two
+3. step three
+4. step four
 
-==have a good day!==
+**Don't forget your computer!**
